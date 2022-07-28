@@ -49,7 +49,7 @@
         "ngrx-store-freeze": "0.2.4",
         "ngx-clipboard": "15.1.0",
         "ngx-daterangepicker-material": "5.0.2",
-        "ngx-highlightjs": "7.0.0",
+        "ngx-highlightjs": "7.0.1",
         "ngx-perfect-scrollbar": "10.1.1",
         "ngx-permissions": "13.0.1",
         "object-path": "0.11.8",
