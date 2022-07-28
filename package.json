@@ -74,7 +74,7 @@
         "@types/highlight.js": "9.12.4",
         "@types/jasmine": "4.0.3",
         "@types/jasminewd2": "2.0.10",
-        "@types/node": "16.11.45",
+        "@types/node": "16.11.46",
         "@types/object-path": "0.11.1",
         "codelyzer": "6.0.2",
         "css-loader": "6.7.1",
