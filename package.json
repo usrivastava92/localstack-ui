@@ -89,7 +89,7 @@
         "protractor": "7.0.0",
         "sass": "1.54.9",
         "tslint": "5.20.1",
-        "typescript": "4.8.2",
+        "typescript": "4.8.3",
         "webpack-bundle-analyzer": "4.6.1",
         "webpack-cli": "4.10.0",
         "webpack-messages": "2.0.4",
