@@ -72,7 +72,7 @@
         "@ngrx/schematics": "16.0.0",
         "@types/chartist": "0.11.1",
         "@types/highlight.js": "9.12.4",
-        "@types/jasmine": "3.10.8",
+        "@types/jasmine": "3.10.18",
         "@types/jasminewd2": "2.0.13",
         "@types/node": "16.18.36",
         "@types/object-path": "0.11.4",
