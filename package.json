@@ -71,7 +71,7 @@
         "@angular/material-moment-adapter": "18.0.5",
         "@ngrx/schematics": "16.0.0",
         "@types/chartist": "1.0.0",
-        "@types/highlight.js": "10.1.0",
+        "@types/highlight.js": "9.12.4",
         "@types/jasmine": "5.1.4",
         "@types/jasminewd2": "2.0.13",
         "@types/node": "20.14.9",
